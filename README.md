@@ -51,9 +51,6 @@ Vite is used as the build tool. Configuration is available in [`vite.config.js`]
 ## 🚀 Deployment
 This project is deployed on **Netlify**. Follow the [Netlify documentation](https://docs.netlify.com/) for more details on setting up automatic deployments.
 
-## 🎥 Demo Video
-[![Watch the demo](Chat-Ai/video.mp4)(Chat-Ai/video.mp4)
-
 ## 📚 Learn More
 - 📖 [Vite Documentation](https://vitejs.dev/guide/) - Learn more about Vite.
 
