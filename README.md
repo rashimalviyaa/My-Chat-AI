@@ -1,5 +1,5 @@
 # Chat AI
-Deployed on- https://rashischatai.netlify.app
+Deployed on- https://rashischatai.netlify.app/
 
 This project is a simple **Chat AI** application built with **React** and **Vite**. It leverages the **Google Generative Language API** to generate responses to user queries.
 
